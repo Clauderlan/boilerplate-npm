@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Clauderlan",
 	"description": "Studying to the Algorif",
+	"keywords": ["freecodecamp", "studying", "node.js"],
 	"dependencies": {
 	  "express": "^4.14.0"
 	},
